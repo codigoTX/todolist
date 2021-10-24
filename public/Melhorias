@@ -1,0 +1,7 @@
+incluir campo para observações
+incluir tempo estimado
+três tipos de usuário
+- adilio e marabia (master, visualiza e editar a ordem)
+- líderes (visualiza, inclui, remove e define prioridade das suas tasks e dos subordinados)
+- subordinados (inclui, remove e finaliza)
+- alerta de alterações.
